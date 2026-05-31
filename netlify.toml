@@ -1,0 +1,7 @@
+[build]
+  functions = "functions"
+
+[functions]
+  telegram = {
+    external_node_modules = []
+  }
